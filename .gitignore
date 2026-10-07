@@ -1,0 +1,15 @@
+# Build output
+build/
+bin/
+
+# Local tool data
+.mimosa/
+
+# Logs
+*.log
+
+# Editor / OS
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
